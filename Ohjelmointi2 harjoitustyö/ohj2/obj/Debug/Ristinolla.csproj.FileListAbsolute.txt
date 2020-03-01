@@ -1,0 +1,88 @@
+C:\Users\rikukuk\source\repos\Ristinolla\Ristinolla\bin\Debug\Ristinolla.exe.config
+C:\Users\rikukuk\source\repos\Ristinolla\Ristinolla\bin\Debug\Ristinolla.exe
+C:\Users\rikukuk\source\repos\Ristinolla\Ristinolla\bin\Debug\Ristinolla.pdb
+C:\Users\rikukuk\source\repos\Ristinolla\Ristinolla\obj\Debug\Ristinolla.csprojAssemblyReference.cache
+C:\Users\rikukuk\source\repos\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Ristinolla.resources
+C:\Users\rikukuk\source\repos\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Properties.Resources.resources
+C:\Users\rikukuk\source\repos\Ristinolla\Ristinolla\obj\Debug\Ristinolla.csproj.GenerateResource.cache
+C:\Users\rikukuk\source\repos\Ristinolla\Ristinolla\obj\Debug\Ristinolla.csproj.CoreCompileInputs.cache
+C:\Users\rikukuk\source\repos\Ristinolla\Ristinolla\obj\Debug\Ristinolla.exe
+C:\Users\rikukuk\source\repos\Ristinolla\Ristinolla\obj\Debug\Ristinolla.pdb
+C:\Users\rikukuk\Documents\ristininolla\Ristinolla\Ristinolla\bin\Debug\Ristinolla.exe.config
+C:\Users\rikukuk\Documents\ristininolla\Ristinolla\Ristinolla\bin\Debug\Ristinolla.exe
+C:\Users\rikukuk\Documents\ristininolla\Ristinolla\Ristinolla\bin\Debug\Ristinolla.pdb
+C:\Users\rikukuk\Documents\ristininolla\Ristinolla\Ristinolla\obj\Debug\Ristinolla.csprojAssemblyReference.cache
+C:\Users\rikukuk\Documents\ristininolla\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Ristinolla.resources
+C:\Users\rikukuk\Documents\ristininolla\Ristinolla\Ristinolla\obj\Debug\Ristinolla.Properties.Resources.resources
+C:\Users\rikukuk\Documents\ristininolla\Ristinolla\Ristinolla\obj\Debug\Ristinolla.csproj.GenerateResource.cache
+C:\Users\rikukuk\Documents\ristininolla\Ristinolla\Ristinolla\obj\Debug\Ristinolla.csproj.CoreCompileInputs.cache
+C:\Users\rikukuk\Documents\ristininolla\Ristinolla\Ristinolla\obj\Debug\Ristinolla.exe
+C:\Users\rikukuk\Documents\ristininolla\Ristinolla\Ristinolla\obj\Debug\Ristinolla.pdb
+C:\Users\rikukuk\Documents\ohj2\Ristinolla\bin\Debug\Ristinolla.exe.config
+C:\Users\rikukuk\Documents\ohj2\Ristinolla\bin\Debug\Ristinolla.exe
+C:\Users\rikukuk\Documents\ohj2\Ristinolla\bin\Debug\Ristinolla.pdb
+C:\Users\rikukuk\Documents\ohj2\Ristinolla\obj\Debug\Ristinolla.csprojAssemblyReference.cache
+C:\Users\rikukuk\Documents\ohj2\Ristinolla\obj\Debug\Ristinolla.Ristinolla.resources
+C:\Users\rikukuk\Documents\ohj2\Ristinolla\obj\Debug\Ristinolla.Properties.Resources.resources
+C:\Users\rikukuk\Documents\ohj2\Ristinolla\obj\Debug\Ristinolla.csproj.GenerateResource.cache
+C:\Users\rikukuk\Documents\ohj2\Ristinolla\obj\Debug\Ristinolla.csproj.CoreCompileInputs.cache
+C:\Users\rikukuk\Documents\ohj2\Ristinolla\obj\Debug\Ristinolla.exe
+C:\Users\rikukuk\Documents\ohj2\Ristinolla\obj\Debug\Ristinolla.pdb
+C:\Users\rikukuk\Documents\Unconfirmed 158757\ohj2\Ristinolla\bin\Debug\Ristinolla.exe.config
+C:\Users\rikukuk\Documents\Unconfirmed 158757\ohj2\Ristinolla\bin\Debug\Ristinolla.exe
+C:\Users\rikukuk\Documents\Unconfirmed 158757\ohj2\Ristinolla\bin\Debug\Ristinolla.pdb
+C:\Users\rikukuk\Documents\Unconfirmed 158757\ohj2\Ristinolla\obj\Debug\Ristinolla.csprojAssemblyReference.cache
+C:\Users\rikukuk\Documents\Unconfirmed 158757\ohj2\Ristinolla\obj\Debug\Ristinolla.Ristinolla.resources
+C:\Users\rikukuk\Documents\Unconfirmed 158757\ohj2\Ristinolla\obj\Debug\Ristinolla.Properties.Resources.resources
+C:\Users\rikukuk\Documents\Unconfirmed 158757\ohj2\Ristinolla\obj\Debug\Ristinolla.csproj.GenerateResource.cache
+C:\Users\rikukuk\Documents\Unconfirmed 158757\ohj2\Ristinolla\obj\Debug\Ristinolla.csproj.CoreCompileInputs.cache
+C:\Users\rikukuk\Documents\Unconfirmed 158757\ohj2\Ristinolla\obj\Debug\Ristinolla.exe
+C:\Users\rikukuk\Documents\Unconfirmed 158757\ohj2\Ristinolla\obj\Debug\Ristinolla.pdb
+C:\Users\rikukuk\Documents\ohj2\Unconfirmed 379416\ohj2\bin\Debug\Ristinolla.exe.config
+C:\Users\rikukuk\Documents\ohj2\Unconfirmed 379416\ohj2\bin\Debug\Ristinolla.exe
+C:\Users\rikukuk\Documents\ohj2\Unconfirmed 379416\ohj2\bin\Debug\Ristinolla.pdb
+C:\Users\rikukuk\Documents\ohj2\Unconfirmed 379416\ohj2\obj\Debug\Ristinolla.csprojAssemblyReference.cache
+C:\Users\rikukuk\Documents\ohj2\Unconfirmed 379416\ohj2\obj\Debug\Ristinolla.Ristinolla.resources
+C:\Users\rikukuk\Documents\ohj2\Unconfirmed 379416\ohj2\obj\Debug\Ristinolla.Menu.resources
+C:\Users\rikukuk\Documents\ohj2\Unconfirmed 379416\ohj2\obj\Debug\Ristinolla.Properties.Resources.resources
+C:\Users\rikukuk\Documents\ohj2\Unconfirmed 379416\ohj2\obj\Debug\Ristinolla.TietojenSyotto.resources
+C:\Users\rikukuk\Documents\ohj2\Unconfirmed 379416\ohj2\obj\Debug\Ristinolla.csproj.GenerateResource.cache
+C:\Users\rikukuk\Documents\ohj2\Unconfirmed 379416\ohj2\obj\Debug\Ristinolla.csproj.CoreCompileInputs.cache
+C:\Users\rikukuk\Documents\ohj2\Unconfirmed 379416\ohj2\obj\Debug\Ristinolla.exe
+C:\Users\rikukuk\Documents\ohj2\Unconfirmed 379416\ohj2\obj\Debug\Ristinolla.pdb
+C:\Users\rikukuk\Documents\ohj2\Unconfirmed 379416\ohj2\obj\Debug\Ristinolla.UusiPeliValikko.resources
+C:\Users\rikukuk\Documents\ohj2\Unconfirmed 379416\ohj2\obj\Debug\Ristinolla.TietokonePeli.resources
+C:\Users\rikukuk\Documents\ohj2\Unconfirmed 379416\ohj2\obj\Debug\Ristinolla.TietojenSyottoTietokone.resources
+C:\Users\rikukuk\Documents\ohj2\Unconfirmed 379416\ohj2\obj\Debug\Ristinolla.UusiTietokonePeliValikko.resources
+C:\Users\rikuk\Documents\Ohjelmointi2 harjoitustyö\ohj2\bin\Debug\Ristinolla.exe.config
+C:\Users\rikuk\Documents\Ohjelmointi2 harjoitustyö\ohj2\bin\Debug\Ristinolla.exe
+C:\Users\rikuk\Documents\Ohjelmointi2 harjoitustyö\ohj2\bin\Debug\Ristinolla.pdb
+C:\Users\rikuk\Documents\Ohjelmointi2 harjoitustyö\ohj2\obj\Debug\Ristinolla.csprojAssemblyReference.cache
+C:\Users\rikuk\Documents\Ohjelmointi2 harjoitustyö\ohj2\obj\Debug\Ristinolla.Ristinolla.resources
+C:\Users\rikuk\Documents\Ohjelmointi2 harjoitustyö\ohj2\obj\Debug\Ristinolla.Menu.resources
+C:\Users\rikuk\Documents\Ohjelmointi2 harjoitustyö\ohj2\obj\Debug\Ristinolla.Properties.Resources.resources
+C:\Users\rikuk\Documents\Ohjelmointi2 harjoitustyö\ohj2\obj\Debug\Ristinolla.TietojenSyotto.resources
+C:\Users\rikuk\Documents\Ohjelmointi2 harjoitustyö\ohj2\obj\Debug\Ristinolla.TietojenSyottoTietokone.resources
+C:\Users\rikuk\Documents\Ohjelmointi2 harjoitustyö\ohj2\obj\Debug\Ristinolla.TietokonePeli.resources
+C:\Users\rikuk\Documents\Ohjelmointi2 harjoitustyö\ohj2\obj\Debug\Ristinolla.UusiPeliValikko.resources
+C:\Users\rikuk\Documents\Ohjelmointi2 harjoitustyö\ohj2\obj\Debug\Ristinolla.UusiTietokonePeliValikko.resources
+C:\Users\rikuk\Documents\Ohjelmointi2 harjoitustyö\ohj2\obj\Debug\Ristinolla.csproj.GenerateResource.cache
+C:\Users\rikuk\Documents\Ohjelmointi2 harjoitustyö\ohj2\obj\Debug\Ristinolla.csproj.CoreCompileInputs.cache
+C:\Users\rikuk\Documents\Ohjelmointi2 harjoitustyö\ohj2\obj\Debug\Ristinolla.exe
+C:\Users\rikuk\Documents\Ohjelmointi2 harjoitustyö\ohj2\obj\Debug\Ristinolla.pdb
+C:\Users\rikukuk\Documents\ohj2\bin\Debug\Ristinolla.exe.config
+C:\Users\rikukuk\Documents\ohj2\bin\Debug\Ristinolla.exe
+C:\Users\rikukuk\Documents\ohj2\bin\Debug\Ristinolla.pdb
+C:\Users\rikukuk\Documents\ohj2\obj\Debug\Ristinolla.csprojAssemblyReference.cache
+C:\Users\rikukuk\Documents\ohj2\obj\Debug\Ristinolla.Ristinolla.resources
+C:\Users\rikukuk\Documents\ohj2\obj\Debug\Ristinolla.Menu.resources
+C:\Users\rikukuk\Documents\ohj2\obj\Debug\Ristinolla.Properties.Resources.resources
+C:\Users\rikukuk\Documents\ohj2\obj\Debug\Ristinolla.TietojenSyotto.resources
+C:\Users\rikukuk\Documents\ohj2\obj\Debug\Ristinolla.TietojenSyottoTietokone.resources
+C:\Users\rikukuk\Documents\ohj2\obj\Debug\Ristinolla.TietokonePeli.resources
+C:\Users\rikukuk\Documents\ohj2\obj\Debug\Ristinolla.UusiPeliValikko.resources
+C:\Users\rikukuk\Documents\ohj2\obj\Debug\Ristinolla.UusiTietokonePeliValikko.resources
+C:\Users\rikukuk\Documents\ohj2\obj\Debug\Ristinolla.csproj.GenerateResource.cache
+C:\Users\rikukuk\Documents\ohj2\obj\Debug\Ristinolla.csproj.CoreCompileInputs.cache
+C:\Users\rikukuk\Documents\ohj2\obj\Debug\Ristinolla.exe
+C:\Users\rikukuk\Documents\ohj2\obj\Debug\Ristinolla.pdb
